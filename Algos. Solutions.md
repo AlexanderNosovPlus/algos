@@ -1,8 +1,11 @@
 # Оглавление:
 1. Two sums [[#Two sums]]
+2. Isomorphic Strings [[#Isomorphic Strings (Изоморфные строки)]]
 
 # Two sums:
 #week_1
+## Ссылка на задачу
+https://leetcode.com/problems/two-sum/description/
 ## Условия задачи
 
 
@@ -76,6 +79,8 @@ class Solution:
 # Isomorphic Strings (Изоморфные строки)
 #week_1 
 
+## Ссылка на задачу
+https://leetcode.com/problems/isomorphic-strings/description/
 ## Условия задачи
 205. Isomorphic Strings
 Easy
