@@ -2,6 +2,7 @@
 1. Two sums [[#Two sums]]
 
 # Two sums:
+#week_1
 ## Условия задачи
 
 
@@ -63,7 +64,7 @@ class Solution:
         for i in range(len(nums)):
             if (target - nums[i]) in dct:
                 lst.append(i)
-                lst.append(nums[dct - nums[i]]) 
+                lst.append(dct[target - nums[i]]) 
                 
             else:
                 dct[nums[i]] = i       
